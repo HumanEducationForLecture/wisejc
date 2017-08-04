@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\wisejc\git\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2639436224.index
+4021096421.index
+583326975.index
+3890413962.index
+1552299345.index
+2173975009.index
